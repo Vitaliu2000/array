@@ -1,4 +1,4 @@
-package HomeWork.MyArrayList;
+package Garbage.MyArrayList;
 
 import java.util.*;
 import java.util.function.UnaryOperator;

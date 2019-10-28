@@ -1,4 +1,4 @@
-package HomeWork;
+package Garbage;
 
 import java.util.ArrayList;
 import java.util.Collections;
